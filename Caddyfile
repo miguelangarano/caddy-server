@@ -1,0 +1,5 @@
+subdomain.domain.com {
+    reverse_proxy name-of-your-app:port {
+      flush_interval -1
+    }
+}
