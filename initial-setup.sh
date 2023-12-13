@@ -69,7 +69,8 @@ echo "Caddy docker volume created successfully"
 
 # Create caddy_config and Caddyfile
 mkdir caddy_config
-ln -s Caddyfile ./caddy_config
+
+ln -s Caddyfile caddy_config/Caddyfile
 
 echo "Created Caddyfile"
 
