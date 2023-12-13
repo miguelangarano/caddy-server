@@ -15,6 +15,7 @@ This project allows you to setup with just one script a Caddy server in a Ubuntu
 3. Execute `cd caddy-server`
 4. Execute `sudo su`
 5. Execute `chmod +x initial-setup.sh`
+6. Execute `./initial-setup.sh`
 
 
 # Usage
